@@ -1,0 +1,79 @@
+body.rhythm-page {
+  background-color: red;
+  margin: 0;
+  min-height: 100vh;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("park.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+body.home-page h1,
+body.home-page p,
+body.home-page a {
+  text-shadow: 2px 2px 5px black;
+}
+
+body.home-page a {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+body.starting-page {
+  margin: 0;
+  min-height: 100vh;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("startingline.webp");s
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+body.starting-page h1,
+body.starting-page p,
+body.starting-page a {
+  text-shadow: 2px 2px 5px black;
+}
+
+body.starting-page a {
+  color: white;
+  font-weight: bold;
+}
+
+body.rhythm-page {
+  margin: 0;
+  min-height: 100vh;
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url("roadrunning.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+body.rhythm-page h1,
+body.rhythm-page p,
+body.rhythm-page a {
+  text-shadow: 2px 2px 5px black;
+}
+
+body.rhythm-page a {
+  color: white;
+  font-weight: bold;
+}
